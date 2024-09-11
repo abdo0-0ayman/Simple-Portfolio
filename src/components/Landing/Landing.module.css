@@ -1,0 +1,17 @@
+.Landing_div{
+        background-image: url('/1.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 795px;
+        width: 1730px;
+        margin: 0px;
+        padding: 0px;
+}
+.Landing_h{
+        color: white;
+        margin: 0px;
+        padding-left: 200px;
+        padding-top: 300px;
+        font-size: 3vh;
+}

@@ -1,0 +1,24 @@
+.Footer_div{
+        background-image: url('/2.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 200px;
+        width: 1730px;
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        align-items: center;
+        align-content: space-evenly;
+}
+.Col{
+        
+        padding: 20px 0px;
+        margin: auto;
+}
+.Head{
+        color: white;
+}
+.text{
+        color: white;
+}
